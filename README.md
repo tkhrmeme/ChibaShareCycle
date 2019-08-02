@@ -11,3 +11,17 @@
 
 kepler.gl で シェアサイクル利用データのCSVを可視化し，exportしたHTMLファイル
 
+
+## 表示例
+
+貸出ステーションから返却ステーションへの移動状況
+
+![ステーション](docs/images/kepler_arc_stations.png)
+
+朝（6〜9時）の貸出（青）と返却（赤）の件数
+
+![朝](docs/images/kepler_hexbin_6-9.png)
+
+夜（17〜20時）の貸出（青）と返却（赤）の件数
+
+![夜](docs/images/kepler_hexbin_17-20.png)
