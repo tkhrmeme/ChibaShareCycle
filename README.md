@@ -9,9 +9,11 @@
 
 ### kepler.gl.html
 
-kepler.gl で シェアサイクル利用データのCSVを可視化し，exportしたHTMLファイル
+kepler.gl で シェアサイクル利用データのCSVを可視化し，'Export Map'したHTMLファイル．
 
-[デモページ](https://tkhrmeme.github.io/ChibaShareCycle/kepler.gl.html)
+## デモページ
+
+kepler.glからエクスポートした[HTMLファイル](https://tkhrmeme.github.io/ChibaShareCycle/kepler.gl.html)．自分の手で色を変えたり，レイヤーを追加したり，フィルターを使ったりして分析できます．
 
 ## 表示例
 
